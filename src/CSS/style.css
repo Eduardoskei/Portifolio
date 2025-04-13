@@ -29,3 +29,13 @@
     background-color: #000 !important;
     color: #fff !important;
 }
+
+.bg-input-dark{
+    background-color: #212529 !important;
+    border-color: #6A0DAD !important;
+}
+
+.bg-input-dark::placeholder{
+    color: #fff !important;
+}
+
